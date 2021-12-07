@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-evenly;
+    /* margin: auto; */
+ 
+}
+
+img{
+    width: 400px;
+    height: 500px;
+    margin-bottom: 25px;
+}
